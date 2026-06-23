@@ -1,0 +1,4 @@
+interface:
+  display_name: "Optimizer Archeologist"
+  short_description: "Find and rank optimizer ports for Track 3"
+  default_prompt: "Use $optimizer-archeologist to find and rank optimizer implementations worth porting into Track 3."

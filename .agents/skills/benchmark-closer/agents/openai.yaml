@@ -1,0 +1,4 @@
+interface:
+  display_name: "Benchmark Closer"
+  short_description: "Drive metric-based benchmark loops to closure"
+  default_prompt: "Use $benchmark-closer to run a disciplined Track 3 benchmark loop until the optimizer candidate wins or is killed."
